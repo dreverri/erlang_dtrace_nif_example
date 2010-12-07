@@ -1,0 +1,5 @@
+.eunit
+*.beam
+priv
+*.o
+.DS_Store
